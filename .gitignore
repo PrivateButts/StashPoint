@@ -1,0 +1,6 @@
+.env
+/TEST
+*.log
+.vscode
+/build
+/dist

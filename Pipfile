@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+office365-rest-python-client = "*"
+python-dotenv = "*"
+requests = "*"
+sentry-sdk = "*"
+
+[dev-packages]
+pyinstaller = "*"
+
+[requires]
+python_version = "3.9"
